@@ -1,0 +1,35 @@
+{
+  "name": "@sanchitb23/eslint-config",
+  "version": "1.0.0",
+  "description": "SanchitB23's default ESLint configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanchitb23/eslint-config"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "javascript",
+    "sanchitb23",
+    "react"
+  ],
+  "author": {
+    "name": "Sanchit Bhatnagar",
+    "url": "https://sanchitb23.in/",
+    "email": "dev.sanchitb23@gmail.com"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/sanchitb23/eslint-config",
+  "bugs": {
+    "url": "https://github.com/sanchitb23/eslint-config/issues"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.x.x",
+    "@babel/eslint-parser": "^7.x.x",
+    "eslint": "^8.x.x",
+    "eslint-config-prettier": "^9.x.x",
+    "prettier": "^3.x.x"
+  }
+}
